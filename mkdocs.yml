@@ -1,0 +1,34 @@
+# Project information
+site_name: Certpages
+site_description: 'Resource For All Your Certifications'
+
+# Configuration
+theme:
+  name: 'material'
+  custom_dir: 'src'
+  palette:
+    primary: 'blue'
+    accent: 'indigo'
+
+# Copyright
+copyright: 'Copyright &copy; 2019 - 2020 Certpages'
+
+# Google Analytics
+google_analytics:
+  - 'UA-XXXXXXXX-X'
+  - 'auto'
+
+# Extensions
+markdown_extensions:
+  - admonition  
+  - toc:
+      permalink: true
+
+# Plugins
+plugins:
+  - search
+
+# Page tree
+nav:
+  - AWS:
+    - 'AWS' : test.md
