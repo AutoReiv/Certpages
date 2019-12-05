@@ -9,6 +9,9 @@ theme:
   palette:
     primary: 'blue'
     accent: 'indigo'
+  logo:
+    icon: 'pages'
+    favicon: 'pages'
 
 # Copyright
 copyright: 'Copyright &copy; 2019 - 2020 Certpages'
