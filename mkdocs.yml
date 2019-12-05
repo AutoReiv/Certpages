@@ -31,4 +31,4 @@ plugins:
 # Page tree
 nav:
   - AWS:
-    - 'AWS' : test.md
+    - 'Solutions Architect – Associate' : AWS/SolutionsArchitect–Associate.md
