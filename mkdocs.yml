@@ -35,3 +35,4 @@ plugins:
 nav:
   - AWS:
     - 'Solutions Architect – Associate' : AWS/SolutionsArchitect–Associate.md
+    - 'Developer - Associate' : AWS/Developer-Associate.md
