@@ -43,3 +43,14 @@ Renewal:
 
 ## Books
 
+[McGraw-Hill - AWS Certified SysOps Administrator Associate All-in-One-Exam Guide][4]
+[4]: https://www.amazon.com/Certified-Administrator-Associate-One-Exam-SOA-C01/dp/126013556X/
+
+[Sybex - AWS Certified SysOps Administrator Study Guide: Associate SOA-C01][5]
+[5]: https://www.amazon.com/Certified-SysOps-Administrator-Study-Guide/dp/1119561558/
+
+## Videos
+
+[Linux Academy - AWS Certified SysOps Administrator – Associate (SOA-C01)][6]
+[6]: https://linuxacademy.com/course/aws-certified-sys-ops-administrator-associate-soa-c-01/
+
