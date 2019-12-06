@@ -42,17 +42,28 @@ Renewal:
 [3]: https://aws.amazon.com/certification/recertification/
 
 ## Books
-AWS Certified Solutions Architect Official Study Guide: Associate Exam 1st Edition
+[Sybex - AWS Certified Solutions Architect Official Study Guide: Associate Exam][4]
+[4]: https://www.amazon.com/Certified-Solutions-Architect-Official-Study/dp/1119138558/
+
+[McGraw-Hill - AWS Certified Solutions Architect Associate All-in-One Exam Guide][5]
+[5]: https://www.amazon.com/Certified-Solutions-Architect-Associate-SAA-C01/dp/1260108279/
 
 ## Videos
-AWS Certified Solutions Architect - Associate 2017
 
-Linux Academy AWS Certified Solutions Architect - Associate
+[Linux Academy - AWS Certified Solutions Architect - Associate][6]
+[6]: https://linuxacademy.com/course/aws-certified-solutions-architect-2019-associate-level/
 
-Solutions Architect – Associate Certification Preparation for AWS
+[Udemy - AWS Certified Solutions Architect - Associate 2020 - A Cloud Guru][7]
+[7]: https://www.udemy.com/course/aws-certified-solutions-architect-associate/
+
+[Udemy - Ultimate AWS Certified Solutions Architect Associate 2020 - Stephane Maarek][8]
+[8]: https://www.udemy.com/course/aws-certified-solutions-architect-associate-saa-c01/
 
 Pluralsight AWS Certified Solutions Architect - Associate
 
 ITPro.tv AWS Certified Solutions Architect - Associate
 
 ## Questions
+
+
+## Other

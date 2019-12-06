@@ -7,8 +7,8 @@ theme:
   name: 'material'
   custom_dir: 'src'
   palette:
-    primary: 'blue'
-    accent: 'indigo'
+    primary: 'black'
+    accent: 'blue'
   logo:
     icon: 'pages'
     favicon: 'pages'
