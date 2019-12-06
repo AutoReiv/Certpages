@@ -54,3 +54,27 @@ Renewal:
 [Linux Academy - AWS Certified SysOps Administrator – Associate (SOA-C01)][6]
 [6]: https://linuxacademy.com/course/aws-certified-sys-ops-administrator-associate-soa-c-01/
 
+[Udemy - Ultimate AWS Certified SysOps Administrator Associate 2020 - Stephane Maarek][7]
+[7]: https://www.udemy.com/course/ultimate-aws-certified-sysops-administrator-associate/
+
+[Udemy -  AWS Certified SysOps Administrator - Associate 2020 - A Cloud Guru][8]
+[8]: https://www.udemy.com/course/aws-certified-sysops-administrator-associate/
+
+[Pluralsight - AWS Certified SysOps Administrator - Associate][9]
+[9]: https://www.pluralsight.com/paths/aws-certified-sysops-administrator-associate
+
+[Cloud Academy - SysOps Administrator – Associate Certification Preparation for AWS][10]
+[10]: https://cloudacademy.com/learning-paths/sysops-administrator-associate-certification-preparation-for-aws-2018-295/
+
+[ITPro.tv - AWS Certified SysOps Administrator - Associate][11]
+[11]: https://www.itpro.tv/courses/aws/aws-certified-sysops-administrator-associate/
+
+## Questions
+
+[Udemy - AWS Certified SysOps Administrator Associate Practice Exams - Tutorials Dojo][12]
+[12]: https://www.udemy.com/course/aws-certified-sysops-administrator-associate-practice-exams-soa-c01/
+
+## Other
+
+[AWS Cheat Sheets][13]
+[13]: https://tutorialsdojo.com/aws-cheat-sheets/

@@ -34,6 +34,7 @@ plugins:
 # Page tree
 nav:
   - AWS:
+    - 'Cloud Practitioner' : AWS/CloudPractitioner.md
     - 'Solutions Architect – Associate' : AWS/SolutionsArchitect–Associate.md
     - 'Developer - Associate' : AWS/Developer-Associate.md
     - 'SysOps Administrator - Associate' : AWS/SysOpsAdministrator-Associate.md
