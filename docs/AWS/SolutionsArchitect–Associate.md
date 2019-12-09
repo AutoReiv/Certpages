@@ -62,6 +62,9 @@ Renewal:
 [Pluralsight - AWS Certified Solutions Architect - Associate][9]
 [9]: https://www.pluralsight.com/courses/aws-certified-solutions-architect-associate
 
+[Cloud Academy - AWS Solutions Architect – Associate Certification Preparation for AWS][16]
+[16]: https://cloudacademy.com/learning-paths/cloud-academy-solutions-architect-associate-certification-v152-184/
+
 [CBT Nuggets - AWS Certified Solutions Architect – Associate (SAA-C01)][11]
 [11]: https://www.cbtnuggets.com/certification-playlist/AWS/solutions-architect-associate
 

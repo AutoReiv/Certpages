@@ -68,5 +68,8 @@ nav:
 
   - EC-Councile:
     - 'Cloud Practitioner' : AWS/CloudPractitioner.md
+
+  - GIAC:
+    - 'Cloud Practitioner' : AWS/CloudPractitioner.md
   
   

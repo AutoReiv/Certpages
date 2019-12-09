@@ -28,7 +28,7 @@ Test Objectives:
 [1]: https://d1.awsstatic.com/training-and-certification/Docs%20-%20Cloud%20Practitioner/AWS_Certified_Cloud_Practitioner_Exam_Guide_v2.1.pdf
 
 Cost:
-$150
+$100
 
 Registration:
 [Register Here][2]
@@ -42,4 +42,39 @@ Renewal:
 [3]: https://aws.amazon.com/certification/recertification/
 
 ## Books
+
+[The Ultimate AWS® Certified Cloud Practitioner Training Manual][4]
+[4]: https://www.amazon.com/Ultimate-Certified-Practitioner-Training-Manual/dp/1687558892/
+
+[Sybex - AWS Certified Cloud Practitioner Study Guide: CLF-C01 Exam][5]
+[5]: https://www.amazon.com/Certified-Cloud-Practitioner-Study-Guide/dp/1119490707/
+
+## Videos
+
+[Linux Academy - AWS Cloud Practitioner (CLF-C01)][6]
+[6]: https://linuxacademy.com/course/aws-cloud-practitioner/
+
+[Udemy - Amazon Web Services (AWS) Certified 2019 - BackSpace Academy][7]
+[7]: https://www.udemy.com/course/aws-certified-associate-architect-developer-sysops-admin/
+
+[Udemy - AWS Certified Cloud Practitioner 2020 - Zeal Vora][8]
+[8]: https://www.udemy.com/course/aws-certified-cloud-practitioner/
+
+[Cloud Academy - AWS Cloud Practitioner Certification Preparation][9]
+[9]: https://cloudacademy.com/learning-paths/cloud-academy-cloud-practitioner-certification-preparation-for-aws-180/
+
+[CBT Nuggets - AWS Certified Cloud Practitioner (CLF-C01)][10]
+[10]: https://www.cbtnuggets.com/certification-playlist/AWS/certified-cloud-practitioner
+
+[ITPro.tv - AWS Certified Cloud Practitioner][11]
+[11]: https://www.itpro.tv/courses/aws/aws-certified-cloud-practitioner/
+
+## Questions
+
+[Udemy - AWS Certified Cloud Practitioner 2019 Practice Questions][12]
+[12]: https://www.udemy.com/course/aws-certified-cloud-practitioner-2018-practice-questions/
+
+[Wizlabs -  AWS Certified Cloud Practitioner][13]
+[13]: https://www.whizlabs.com/aws-certified-cloud-practitioner/
+
 
