@@ -2,7 +2,7 @@
 
 ## Overview
 
-Exam Codes: 
+Exam Code: 
 SAA-C01
 
 Prerequisites:

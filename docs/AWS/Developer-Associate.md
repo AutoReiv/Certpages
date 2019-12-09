@@ -2,7 +2,7 @@
 
 ## Overview
 
-Exam Codes: 
+Exam Code: 
 DVA-C01
 
 Prerequisites:

@@ -2,7 +2,7 @@
 
 ## Overview
 
-Exam Codes: 
+Exam Code: 
 SOA-C01
 
 Prerequisites:

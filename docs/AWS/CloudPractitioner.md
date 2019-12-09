@@ -2,7 +2,7 @@
 
 ## Overview
 
-Exam Codes: 
+Exam Code: 
 CLF-C01
 
 Prerequisites:
