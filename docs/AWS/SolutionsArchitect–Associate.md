@@ -2,7 +2,7 @@
 
 ## Overview
 
-Exam Codes: 
+Exam Code: 
 SAA-C01
 
 Prerequisites:
@@ -32,7 +32,7 @@ $150
 
 Registration:
 [Register Here][2]
-[2]: https://www.aws.training/certification?src=dev-assoc 
+[2]: https://www.aws.training/certification?src=arc-assoc
 
 Expiration:
 3 years after the certification is acquired.
@@ -59,11 +59,29 @@ Renewal:
 [Udemy - Ultimate AWS Certified Solutions Architect Associate 2020 - Stephane Maarek][8]
 [8]: https://www.udemy.com/course/aws-certified-solutions-architect-associate-saa-c01/
 
-Pluralsight AWS Certified Solutions Architect - Associate
+[Pluralsight - AWS Certified Solutions Architect - Associate][9]
+[9]: https://www.pluralsight.com/courses/aws-certified-solutions-architect-associate
 
-ITPro.tv AWS Certified Solutions Architect - Associate
+[CBT Nuggets - AWS Certified Solutions Architect – Associate (SAA-C01)][11]
+[11]: https://www.cbtnuggets.com/certification-playlist/AWS/solutions-architect-associate
+
+[ITPro.tv - AWS Certified Solutions Architect - Associate][10]
+[10]: https://www.itpro.tv/courses/aws/aws-certified-solutions-architect-associate/
 
 ## Questions
+[Udemy - AWS Certified Solutions Architect Associate Practice Exams][11]
+[11]: https://www.udemy.com/course/aws-certified-solutions-architect-associate-amazon-practice-exams/
 
+[Wizlabs - AWS Certified Solutions Architect Associate (SAA-C01)][12]
+[12]: https://www.whizlabs.com/aws-solutions-architect-associate/
 
 ## Other
+
+[Notes for AWS Certified Solutions Architect Associate][13]
+[13]: https://github.com/SkullTech/aws-solutions-architect-associate-notes
+
+[AWS Cheat Sheets][14]
+[14]: https://tutorialsdojo.com/aws-cheat-sheets/
+
+[AWS Whitepapers & Guides][15]
+[15]: https://aws.amazon.com/whitepapers/?whitepapers-main.sort-by=item.additionalFields.sortDate&whitepapers-main.sort-order=desc
