@@ -77,4 +77,7 @@ Renewal:
 [Wizlabs -  AWS Certified Cloud Practitioner][13]
 [13]: https://www.whizlabs.com/aws-certified-cloud-practitioner/
 
+## Other
 
+[AWS Cloud Practitioner Certification Notes][14]
+[14]: https://github.com/yafeunteun/aws-cloud-practitioner-certification-notes
