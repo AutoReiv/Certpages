@@ -38,7 +38,7 @@ Expiration:
 3 years after the certification is acquired.
 
 Renewal:
-[Take the current Associate exam again][3] OR Earn a AWS professional level certification
+[Take the Cloud Practitioner exam OR earn and associate-level or professional-level certification][3]
 [3]: https://aws.amazon.com/certification/recertification/
 
 ## Books

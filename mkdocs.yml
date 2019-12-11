@@ -33,43 +33,10 @@ plugins:
 
 # Page tree
 nav:
-  - AWS:
-    - 'Cloud Practitioner' : AWS/CloudPractitioner.md
-    - 'Solutions Architect – Associate' : AWS/SolutionsArchitect–Associate.md
-    - 'Developer - Associate' : AWS/Developer-Associate.md
-    - 'SysOps Administrator - Associate' : AWS/SysOpsAdministrator-Associate.md
-  
-  - Cisco:
-    - 'Cloud Practitioner' : AWS/CloudPractitioner.md  
-
-  - Comptia:
-    - 'Cloud Practitioner' : AWS/CloudPractitioner.md
-
-  - Microsoft:
-    - 'Cloud Practitioner' : AWS/CloudPractitioner.md
-
-  - VMWare:
-    - 'Cloud Practitioner' : AWS/CloudPractitioner.md
-
-  - ISC2:
-    - 'Cloud Practitioner' : AWS/CloudPractitioner.md
-
-  - Redhat:
-    - 'Cloud Practitioner' : AWS/CloudPractitioner.md
-  
-  - GCP:
-    - 'Cloud Practitioner' : AWS/CloudPractitioner.md
-
-  - ITIL:
-    - 'Cloud Practitioner' : AWS/CloudPractitioner.md
-
-  - PMI:
-    - 'Cloud Practitioner' : AWS/CloudPractitioner.md
-
-  - EC-Councile:
-    - 'Cloud Practitioner' : AWS/CloudPractitioner.md
-
-  - GIAC:
-    - 'Cloud Practitioner' : AWS/CloudPractitioner.md
+  - 'AWS Cloud Practitioner' : AWS/CloudPractitioner.md
+  - 'AWS Solutions Architect – Associate' : AWS/SolutionsArchitect–Associate.md
+  - 'AWS Developer - Associate' : AWS/Developer-Associate.md
+  - 'AWS SysOps Administrator - Associate' : AWS/SysOpsAdministrator-Associate.md
+  - 'AWS Solutions Architect - Professional' : AWS/SolutionsArchitect-Professional.md
   
   
