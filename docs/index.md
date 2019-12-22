@@ -1,17 +1,7 @@
-# Welcome to MkDocs
+# Welcome to Certpages
 
-For full documentation visit [mkdocs.org](https://mkdocs.org).
+Your number 1 resource for all IT certifications.
 
-## Commands
+This website is a living document to help you pass your next certification.
 
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs help` - Print this help message.
-
-## Project layout
-
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+If you have any questions, please contact us at certpages@gmail.com 
