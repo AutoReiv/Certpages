@@ -33,6 +33,7 @@ plugins:
 
 # Page tree
 nav:
+  - 'Home' : index.md
   - 'AWS Cloud Practitioner' : AWS/CloudPractitioner.md
   - 'AWS Solutions Architect – Associate' : AWS/SolutionsArchitect–Associate.md
   - 'AWS Developer - Associate' : AWS/Developer-Associate.md
