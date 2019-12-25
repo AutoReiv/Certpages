@@ -10,8 +10,8 @@ theme:
     primary: 'black'
     accent: 'blue'
   logo:
-    icon: 'pages'
-    favicon: 'pages'
+    icon: 'school'
+    favicon: 'school'
 
 # Copyright
 copyright: 'Copyright &copy; 2019 - 2020 Certpages'
