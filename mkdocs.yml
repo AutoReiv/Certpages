@@ -7,7 +7,7 @@ theme:
   name: 'material'
   custom_dir: 'src'
   palette:
-    primary: 'black'
+    primary: 'blue'
     accent: 'blue'
   logo:
     icon: 'pages'
@@ -18,7 +18,7 @@ copyright: 'Copyright &copy; 2019 - 2020 Certpages'
 
 # Google Analytics
 google_analytics:
-  - 'UA-XXXXXXXX-X'
+  - 'UA-154979472-1'
   - 'auto'
 
 # Extensions
