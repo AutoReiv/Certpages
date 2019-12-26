@@ -11,8 +11,8 @@ theme:
     primary: 'black'
     accent: 'blue'
   logo:
-    icon: 'school'
-    favicon: 'school'
+    icon: 'class'
+  favicon: 'site/assets/images/favicon.ico'
 
 # Copyright
 copyright: 'Copyright &copy; 2019 - 2020 Certpages'
