@@ -12,7 +12,7 @@ theme:
     accent: 'blue'
   logo:
     icon: 'class'
-  favicon: 'site/assets/images/favicon.ico'
+  favicon: 'assets/images/favicon1.png'
 
 # Copyright
 copyright: 'Copyright &copy; 2019 - 2020 Certpages'
