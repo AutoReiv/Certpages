@@ -5,6 +5,7 @@ site_url: 'https://certpages.com'
 
 # Configuration
 theme:
+  favicon: 'favicon.ico'
   name: 'material'
   custom_dir: 'src'
   palette:
@@ -12,7 +13,6 @@ theme:
     accent: 'blue'
   logo:
     icon: 'class'
-  favicon: 'assets/images/favicon1.png'
 
 # Copyright
 copyright: 'Copyright &copy; 2019 - 2020 Certpages'
