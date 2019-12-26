@@ -33,7 +33,7 @@ plugins:
 
 # Customization
 extra:
-  disqus: 'your-shortname'
+  disqus: 'certpages'
 
 # Page tree
 nav:
