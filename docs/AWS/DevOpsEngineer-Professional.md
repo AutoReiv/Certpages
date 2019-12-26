@@ -47,7 +47,7 @@ No good books available
 [Linux Academy - AWS Certified DevOps Engineer – Professional Level][4]
 [4]: https://linuxacademy.com/course/aws-certified-devops-professional-new/
 
-[Udemy - AWS Certified DevOps Engineer Professional 2020 - Hands On][5]
+[Udemy - AWS Certified DevOps Engineer Professional 2020 - Stephane Maarek][5]
 [5]: https://www.udemy.com/course/aws-certified-devops-engineer-professional-hands-on/
 
 [A Cloud Guru - AWS Certified DevOps Engineer - Professional 2020][7]
