@@ -12,7 +12,7 @@ Recommended Experience:
 An AWS associate certification is recommended but not required.
 
 Number of Questions:
-75
+80
 
 Test Format:
 Multiple choice, multiple answer
@@ -54,7 +54,7 @@ Renewal:
 [Udemy - AWS Certified Solutions Architect Professional][7]
 [7]: https://www.udemy.com/course/amazon-certified-solutions-architect-professional/
 
-[AWS Certified Solutions Architect - Professional 2020][8]
+[A Cloud Guru - AWS Certified Solutions Architect - Professional 2020][8]
 [8]: https://acloud.guru/learn/aws-certified-solutions-architect-professional
 
 [Cloud Academy -Solutions Architect – Professional Certification Preparation for AWS][9]
