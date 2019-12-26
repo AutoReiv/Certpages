@@ -1,6 +1,7 @@
 # Project information
 site_name: Certpages
 site_description: 'Resource For All Your Certifications'
+site_url: 'https://wwww.certpages.com'
 
 # Configuration
 theme:
@@ -33,7 +34,7 @@ plugins:
 
 # Customization
 extra:
-  disqus: certpages
+  disqus: 'certpages'
 
 # Page tree
 nav:
