@@ -43,6 +43,7 @@ nav:
   - 'AWS Developer - Associate' : AWS/Developer-Associate.md
   - 'AWS SysOps Administrator - Associate' : AWS/SysOpsAdministrator-Associate.md
   - 'AWS Solutions Architect - Professional' : AWS/SolutionsArchitect-Professional.md
-  - 'AWS Certified DevOps Engineer - Professional' : AWS/DevOpsEngineer-Professional.md
-  - 'AWS Certified Advanced Networking - Specialty' : AWS/AdvancedNetworking-Specialty.md
+  - 'AWS DevOps Engineer - Professional' : AWS/DevOpsEngineer-Professional.md
+  - 'AWS Advanced Networking - Specialty' : AWS/AdvancedNetworking-Specialty.md
+  - 'AWS Big Data - Specialty' : AWS/BigData-Specialty.md
   
