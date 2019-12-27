@@ -42,8 +42,7 @@ Renewal:
 [3]: https://aws.amazon.com/certification/recertification/
 
 ## Books
-[Sybex - AWS Certified Data Analytics Study Guide: Specialty][4]
-[4]: https://www.amazon.com/Certified-Data-Analytics-Study-Guide/dp/1119649471/
+No good books available
 
 ## Videos
 [Linux Academy -  AWS Certified Big Data – Specialty Certification][5]

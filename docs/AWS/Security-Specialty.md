@@ -42,3 +42,31 @@ Renewal:
 [3]: https://aws.amazon.com/certification/recertification/
 
 ## Books
+No good books available
+
+## Videos
+[Linux Academy - AWS Certified Security – Specialty Certification][4]
+[4]: https://linuxacademy.com/course/aws-certified-security-specialty/
+
+[Udemy - AWS Certified Security – Specialty Certification - Zeal Vora][5]
+[5]: https://www.udemy.com/course/aws-certified-security-specialty/
+
+[A Cloud Guru - AWS Certified Security - Specialty 2020][6]
+[6]: https://acloud.guru/learn/aws-certified-security-specialty
+
+[Cloud Academy - Security - Specialty Certification Preparation for AWS][7]
+[7]: https://cloudacademy.com/learning-paths/security-specialty-certification-preparation-for-aws-201/
+
+[CBT Nuggets - AWS Certified Security – Specialty (SCS-C01)][8]
+[8]: https://www.cbtnuggets.com/certification-playlist/AWS/certified-security-specialty
+
+## Questions
+[Wizlabs - AWS Certified Security - Specialty][9]
+[9]: https://www.whizlabs.com/aws-certified-security-specialty/
+
+## Other
+[AWS Cheat Sheets][10]
+[10]: https://tutorialsdojo.com/aws-cheat-sheets/
+
+[AWS Whitepapers & Guides][11]
+[11]: https://aws.amazon.com/whitepapers/?whitepapers-main.sort-by=item.additionalFields.sortDate&whitepapers-main.sort-order=desc
