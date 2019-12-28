@@ -9,7 +9,7 @@ Prerequisites:
 None
 
 Recommended Experience: 
-9 to 12 months hands-on experience in the lab or field 
+None
 
 Number of Questions:
 90
