@@ -38,7 +38,7 @@ Expiration:
 3 years after the certification is acquired.
 
 Renewal:
-You can either take a higher certification, pass the most current version of the exam, get 20 or more credits of Continuing Education Units in 3 years, or [complete CertMaster CE, an online, self-paced CE course.][3]
+You can either take a higher certification, pass the most current version of the exam, get 30 or more credits of Continuing Education Units in 3 years, or [complete CertMaster CE, an online, self-paced CE course.][3]
 [3]: https://www.comptia.org/continuing-education/choose/renew-with-a-single-activity/complete-a-comptia-certmaster-ce-course#a
 
 ## Books
