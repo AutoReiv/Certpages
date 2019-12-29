@@ -1,6 +1,6 @@
-# Welcome to Certpages
+![Certpages](Images/Certpages.png)
 
-Your number 1 resource for all IT certifications.
+Resources for all your IT certifications
 
 This website is a living document to help you pass your next certification.
 
