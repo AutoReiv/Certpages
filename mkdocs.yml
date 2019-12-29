@@ -58,3 +58,5 @@ nav:
     - 'Security+' : Comptia/Security+.md
     - 'Cloud+' : Comptia/Cloud+.md
     - 'Linux+' : Comptia/Linux+.md
+    - 'Server+' : Comptia/Server+.md
+    - 'CySA+' : Comptia/CySA+.md
