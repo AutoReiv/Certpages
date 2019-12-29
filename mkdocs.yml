@@ -38,6 +38,7 @@ extra:
 
 # Page tree
 nav:
+  - Welcome: 'index.md'
   - Amazon Web Services:
     - 'Cloud Practitioner' : AWS/CloudPractitioner.md
     - 'Solutions Architect – Associate' : AWS/SolutionsArchitect–Associate.md
@@ -55,4 +56,5 @@ nav:
     - 'A+' : Comptia/A+.md
     - 'Network+' : Comptia/Network+.md
     - 'Security+' : Comptia/Security+.md
-    - 'Cloud+' : Comptia/Cloud+
+    - 'Cloud+' : Comptia/Cloud+.md
+    - 'Linux+' : Comptia/Linux+.md

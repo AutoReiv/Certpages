@@ -41,3 +41,25 @@ Renewal:
 You can either take a higher certification, pass the most current version of the exam, or get 50 or more credits of Continuing Education Units in 3 years.
 
 ## Books
+[McGraw-Hill - CompTIA Cloud+ Certification Study Guide, Second Edition][3]
+[3]: https://www.amazon.com/CompTIA-Cloud-Certification-Second-CV0-002/dp/1260116611/
+
+[Sybex - CompTIA Cloud+ Study Guide: Exam CV0-002][4]
+[4]: https://www.amazon.com/CompTIA-Cloud-Study-Guide-CV0-002/dp/1119443059/
+
+## Videos
+[CBT Nuggets - CompTIA Cloud+ (CV0-002)](https://www.cbtnuggets.com/it-training/comptia-cloud-cv0-002)
+
+[Udemy CompTIA Cloud+ CV0-002 Bootcamp Get Certified!](https://www.udemy.com/course/comptia-cloud-cv0-002-bootcamp-get-certified/)
+
+[Lynda -Prepare for the CompTIA Cloud+ (CV0-002) Certification](https://www.lynda.com/learning-paths/IT/prepare-for-the-comptia-cloud-cv0-002-certification)
+
+[Pluralsight - CompTIA Cloud+ (CV0-002)](https://www.pluralsight.com/paths/comptia-cloud-cv0-002)
+
+[ITPro.tv - CompTIA Cloud+ (CV0-002)](https://www.itpro.tv/courses/comptia/comptia-cloud-cv0002/)
+
+## Questions
+No good questions available
+
+## Other
+No good resource available
