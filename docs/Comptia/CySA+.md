@@ -24,8 +24,7 @@ Passing Score:
 750 (on a scale of 100-900)
 
 Test Objectives:
-[CS0-001 Objectives][1]
-[1]: https://comptiacdn.azureedge.net/webcontent/docs/default-source/exam-objectives/comptia-security-sy0-501-exam-objectives.pdf?sfvrsn=877aa036_10
+[CS0-001 Objectives](https://comptiacdn.azureedge.net/webcontent/docs/default-source/exam-objectives/comptia-cysa-cs0-002-exam-objectives.pdf)
 
 Cost:
 $349

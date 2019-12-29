@@ -60,3 +60,5 @@ nav:
     - 'Linux+' : Comptia/Linux+.md
     - 'Server+' : Comptia/Server+.md
     - 'CySA+' : Comptia/CySA+.md
+    - 'CASP+' : Comptia/CASP+.md
+    - 'PenTest+' : Comptia/PenTest+.md
