@@ -58,7 +58,7 @@ No good books available
 [8]: https://cloudacademy.com/learning-paths/big-data-specialty-certification-preparation-for-aws-36/
 
 ## Questions
-[Wizlabs - AWS Certified Big Data – Specialty][9]
+[Whizlabs - AWS Certified Big Data – Specialty][9]
 [9]: https://www.whizlabs.com/aws-certified-big-data-specialty/
 
 ## Other

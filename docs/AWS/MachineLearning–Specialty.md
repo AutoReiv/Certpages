@@ -60,7 +60,7 @@ Renewal:
 [Udemy - AWS Certified Machine Learning Specialty: Full Practice Exam - Frank Kane][8]
 [8]: https://www.udemy.com/course/aws-machine-learning-practice-exam/
 
-[Wizlabs - AWS Certified Machine Learning - Specialty][9]
+[Whizlabs - AWS Certified Machine Learning - Specialty][9]
 [9]: https://www.whizlabs.com/aws-certified-machine-learning-specialty/
 
 ## Other

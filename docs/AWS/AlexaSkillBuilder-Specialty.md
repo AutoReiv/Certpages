@@ -49,7 +49,7 @@ No good books available
 [4]: https://acloud.guru/learn/aws-certified-alexa-skill-builder-specialty
 
 ## Questions
-[Wizlabs - AWS Certified Alexa Skill Builder - Specialty][5]
+[Whizlabs - AWS Certified Alexa Skill Builder - Specialty][5]
 [5]: https://www.whizlabs.com/aws-certified-alexa-skill-builder-specialty/
 
 ## Other

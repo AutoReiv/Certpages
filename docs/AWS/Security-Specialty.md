@@ -61,7 +61,7 @@ No good books available
 [8]: https://www.cbtnuggets.com/certification-playlist/AWS/certified-security-specialty
 
 ## Questions
-[Wizlabs - AWS Certified Security - Specialty][9]
+[Whizlabs - AWS Certified Security - Specialty][9]
 [9]: https://www.whizlabs.com/aws-certified-security-specialty/
 
 ## Other

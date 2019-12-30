@@ -70,14 +70,15 @@ Renewal:
 [11]: https://www.itpro.tv/courses/aws/aws-certified-cloud-practitioner/
 
 ## Questions
+[Jon Bonso - AWS Certified Cloud Practitioner Practice Exams](https://www.udemy.com/course/aws-certified-cloud-practitioner-practice-exams-amazon/)
 
 [Udemy - AWS Certified Cloud Practitioner 2019 Practice Questions][12]
 [12]: https://www.udemy.com/course/aws-certified-cloud-practitioner-2018-practice-questions/
 
-[Wizlabs -  AWS Certified Cloud Practitioner][13]
+[Whizlabs -  AWS Certified Cloud Practitioner][13]
 [13]: https://www.whizlabs.com/aws-certified-cloud-practitioner/
 
 ## Other
+[Best Practices for Architecting in the Cloud - Jeff Barr](https://www.slideshare.net/AmazonWebServices/best-practices-for-architecting-in-the-cloud-jeff-barr)
 
-[AWS Cloud Practitioner Certification Notes][14]
-[14]: https://github.com/yafeunteun/aws-cloud-practitioner-certification-notes
+[AWS Cloud Practitioner Certification Notes](https://github.com/yafeunteun/aws-cloud-practitioner-certification-notes)

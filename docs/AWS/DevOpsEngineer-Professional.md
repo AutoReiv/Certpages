@@ -57,13 +57,13 @@ No good books available
 [8]: https://cloudacademy.com/learning-paths/devops-engineer-professional-certification-preparation-for-aws-2019-427/
 
 ## Questions
-[Jon Boson - AWS Certified DevOps Engineer Professional Practice Exams][9]
+[Jon Bonso - AWS Certified DevOps Engineer Professional Practice Exams][9]
 [9]: https://www.udemy.com/course/aws-certified-devops-engineer-professional-practice-exams-amazon/
 
 [Stephane Maarek - AWS Certified DevOps Engineer Professional [Practice Exam]][10]
 [10]: https://www.udemy.com/course/aws-certified-devops-engineer-professional-practice-exam-dop/
 
-[Wizlabs - AWS Certified DevOps Engineer Professional][11]
+[Whizlabs - AWS Certified DevOps Engineer Professional][11]
 [11]: https://www.whizlabs.com/aws-devops-certification-training/
 
 ## Other

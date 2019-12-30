@@ -75,7 +75,7 @@ Renewal:
 [Udemy - AWS Certified Solutions Architect Associate Practice Exams][11]
 [11]: https://www.udemy.com/course/aws-certified-solutions-architect-associate-amazon-practice-exams/
 
-[Wizlabs - AWS Certified Solutions Architect Associate (SAA-C01)][12]
+[Whizlabs - AWS Certified Solutions Architect Associate (SAA-C01)][12]
 [12]: https://www.whizlabs.com/aws-solutions-architect-associate/
 
 ## Other

@@ -61,10 +61,10 @@ Renewal:
 [9]: https://cloudacademy.com/learning-paths/solutions-architect-professional-certification-preparation-for-aws-2019-377/
 
 ## Questions
-[John Bonso - AWS Certified Solutions Architect Professional Practice Exam][10]
+[Jon Bonso - AWS Certified Solutions Architect Professional Practice Exam][10]
 [10]: https://www.udemy.com/course/aws-solutions-architect-professional-practice-exams-2018/
 
-[Wizlabs - AWS Certified Solutions Architect Professional][11]
+[Whizlabs - AWS Certified Solutions Architect Professional][11]
 [11]: https://www.whizlabs.com/aws-solutions-architect-professional/
 
 ## Other
