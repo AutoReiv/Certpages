@@ -64,3 +64,5 @@ nav:
     - 'PenTest+' : Comptia/PenTest+.md
     - 'Project+' : Comptia/Project+.md
     - 'Cloud Essentials+' : Comptia/CloudEssentials+.md
+  - ISC2:
+    - 'CISSP' : ISC2/CISSP.md
