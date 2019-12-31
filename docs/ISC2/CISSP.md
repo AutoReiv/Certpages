@@ -36,7 +36,7 @@ Expiration:
 3 years after the certification is acquired.
 
 Renewal:
-[Continuing Professional Education (CPE) credits](https://www.isc2.org/-/media/ISC2/Certifications/CPE/CPE---Handbook-Digital-V2.ashx)
+[Continuing Professional Education (CPE) credits annual fees](https://www.isc2.org/-/media/ISC2/Certifications/CPE/CPE---Handbook-Digital-V2.ashx)
 
 ## Books
 [Sybex - (ISC)2 CISSP Certified Information Systems Security Professional Official Study Guide](https://www.amazon.com/Certified-Information-Security-Professional-Official/dp/1119475937/)
@@ -51,6 +51,8 @@ Renewal:
 [Cybrary - CISSP](https://www.cybrary.it/course/cissp)
 
 [Oreilly - CISSP, Second Edition](https://www.oreilly.com/library/view/cissp-second-edition/9780135180488/)
+
+[ITPro.tv - Certified Information Systems Security Professional (UPDATED 2018)](https://www.itpro.tv/courses/isc2/certified-information-systems-security-professional-updated-2018/)
 
 ## Questions
 [Bonso - CISSP Certification](https://www.boson.com/certification/cissp)
