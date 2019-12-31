@@ -35,7 +35,7 @@ Registration:
 [2]: https://www.comptia.org/certifications/it-fundamentals#buyoptions
 
 Expiration:
-3 years after the certification is acquired.
+Good for life
 
 Renewal:
 Good for life

@@ -36,7 +36,7 @@ Expiration:
 3 years after the certification is acquired.
 
 Renewal:
-[60 Continuing Professional Education (CPE) credits and annual fees](https://www.isc2.org/-/media/ISC2/Certifications/CPE/CPE---Handbook-Digital-V2.ashx)
+[60 continuing Professional Education (CPE) credits and annual fees](https://www.isc2.org/-/media/ISC2/Certifications/CPE/CPE---Handbook-Digital-V2.ashx)
 
 ## Books
 [McGraw-Hill - SSCP Systems Security Certified Practitioner All-in-One Exam Guide, Third Edition](https://www.amazon.com/Systems-Security-Certified-Practitioner-Guide/dp/1260128709/)
