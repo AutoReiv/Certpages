@@ -51,7 +51,7 @@ nav:
     - 'Security - Specialty' :  AWS/Security-Specialty.md
     - 'Machine Learning – Specialty' : AWS/MachineLearning–Specialty.md
     - 'Alexa Skill Builder - Specialty' : AWS/AlexaSkillBuilder-Specialty.md
-  - CompTIA: Pages/AWS.md
+  - CompTIA:
     - 'IT Fundamentals' : Comptia/ITFundamentals.md
     - 'A+' : Comptia/A+.md
     - 'Network+' : Comptia/Network+.md
@@ -66,3 +66,4 @@ nav:
     - 'Cloud Essentials+' : Comptia/CloudEssentials+.md
   - ISC2:
     - 'CISSP' : ISC2/CISSP.md
+    - 'SSCP' : ISC2/SSCP.md
