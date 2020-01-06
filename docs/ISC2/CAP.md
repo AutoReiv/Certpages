@@ -40,3 +40,13 @@ Renewal:
 [Continuing Professional Education (CPE) credits and annual fees](https://www.isc2.org/-/media/ISC2/Certifications/CPE/CPE---Handbook-Digital-V2.ashx)
 
 ## Books
+[Official (ISC)2® Guide to the CAP® CBK® ((ISC)2 Press)](https://www.amazon.com/Certified-Authorization-Professional-Minute-Review/dp/1500884618/)
+
+## Videos
+No videos available
+
+## Questions
+[CAP Certification Sample Questions](https://www.edusum.com/isc2/cap-certification-sample-questions)
+
+## Other
+[NIST Documents](https://csrc.nist.gov/publications)
