@@ -150,4 +150,19 @@
      <lastmod>2020-01-06</lastmod>
      <changefreq>daily</changefreq>
     </url>
+    <url>
+     <loc>https://certpages.com/ISC2/CISSP-ISSAP/</loc>
+     <lastmod>2020-01-06</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    <url>
+     <loc>https://certpages.com/ISC2/CISSP-ISSEP/</loc>
+     <lastmod>2020-01-06</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    <url>
+     <loc>https://certpages.com/ISC2/CISSP-ISSMP/</loc>
+     <lastmod>2020-01-06</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
 </urlset>
