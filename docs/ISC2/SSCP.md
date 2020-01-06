@@ -60,4 +60,4 @@ Renewal:
 [McGraw-Hill - SSCP Systems Security Certified Practitioner Practice Exams](https://www.amazon.com/Systems-Security-Certified-Practitioner-Practice/dp/1260455971)
 
 ## Other
-No good resource available
+[NIST Documents](https://csrc.nist.gov/publications)

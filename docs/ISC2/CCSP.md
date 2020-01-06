@@ -61,4 +61,4 @@ Renewal:
 [Udemy - CCSP (Cloud Security) Practice Tests - 400 Total Questions](https://www.udemy.com/course/ccsp-cloud-security-practice-tests-400-total-questions/)
 
 ## Other
-No good resource available
+[NIST Documents](https://csrc.nist.gov/publications)
